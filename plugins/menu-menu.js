@@ -22,11 +22,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `╭꒱≡≡≡≡≡╡.｡❅*⋆⍋*∞*｡❅*⋆⍋*∞*｡╞≡≡≡≡♡
-┊    ❥ᰰຼ ⃟ᬽ៸𝕊𝕙𝕚𝕟𝕠𝕟𝕠𝕞𝕖-𝔹𝕠𝕥༒★»
+┊    ❥ᰰຼ ⃟ᬽ៸onyx-𝔹𝕠𝕥༒★»
 ┊-----------➫┇◦✦◦✦◦✦◦✦◦┋:̖́-
 ┊❦ *𝗛ola, ${taguser}*
 ┊─►⸙❐⚘⸙❐⚘⸙❐⚘⸙❐⚘⸙❐⚘⸙❐⚘⸙✎
-┊❦ *Owner:* YuKi
+┊❦ *Owner:* pit
 ┊❦ *Numero:* wa.me/13852322280
 ┊❦ *Grupo Bot:* https://chat.whatsapp.com/GDTBXXPiFbw6z4AEZZzbZ8
 ┊❦ *Fecha:* ${date}
